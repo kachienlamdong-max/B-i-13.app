@@ -1,0 +1,6 @@
+{
+  "name": "Địa lí 12 - Bài 13: Phát triển Lâm nghiệp & Thủy sản",
+  "description": "Ứng dụng mô phỏng học tập tương tác chuẩn SGK Địa lí 12 Kết nối tri thức - Bài 13: Vấn đề phát triển ngành lâm nghiệp và thủy sản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
